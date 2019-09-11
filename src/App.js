@@ -25,6 +25,7 @@ function App() {
         <Numbers />
         <Operators />
         <Specials />
+        {/* <Display />  I have no idea how to get this to display correctly*/}
       </div>
     </div>
   );
